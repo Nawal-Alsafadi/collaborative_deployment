@@ -1,6 +1,6 @@
 flask==2.3.2
 flask_cors==3.0.10
-numpy>=1.22
-scikit-learn==1.0.2
+numpy
+scikit-learn
 scikit-surprise
 pandas
